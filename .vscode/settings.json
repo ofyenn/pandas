@@ -1,0 +1,8 @@
+{
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    // "editor.wordWrap": "on",
+    "git.ignoreLimitWarning": true,
+    "python.terminal.activateEnvironment": false
+  }
